@@ -262,3 +262,6 @@ highScore.ser
 totalCoins.ser
 settings.properties
 achievements.ser
+
+#Entorno virtual de python
+venv/
