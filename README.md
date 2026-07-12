@@ -1,6 +1,22 @@
-# 🎮 IPS-Project-Dinosaur-Exploder (Sprint 1)
+# 🎮 IPS-Project-Dinosaur-Exploder (Sprint 0)
 
-## 🛠️ Modificaciones y Mejoras Realizadas (Sprint 1)
+### Selección del software
+* **Licencia MIT verificada:** permite fork, modificación y uso libre sin restricciones académicas.
+* **Dominio conocido:** de preferencia sistemas empresariales para pequeñas y/o medianas 
+empresas, por ejemplo: sistemas ERP, CRM, SCM, etc. aplicado a cualquier rubro empresarial.
+* **Stack tecnológico moderno:** tecnologías frontend y backend open source vigentes usados 
+en la industria de software actual.
+* **Complejidad:** mediana el producto de software debe tener de 3 a 5 módulos o subsistemas 
+y más de 10,000 líneas de código (> 10 KLOC)
+* **Infraestructura DevOps adaptable:** utilización de un pipeline de github
+
+### Estudio del proyecto de Java
+
+### Documentación inicial
+
+# 🎮 IPS-Project-Dinosaur-Exploder (Sprint 1 - 2)
+
+## 🛠️ Modificaciones y Mejoras Realizadas
 
 Durante este sprint, nos enfocamos en estabilizar el entorno de desarrollo, implementar estándares estrictos de calidad de código y automatizar la entrega de métricas mediante GitHub Actions.
 
