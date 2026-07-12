@@ -10,9 +10,10 @@ en la industria de software actual.
 y más de 10,000 líneas de código (> 10 KLOC)
 * **Infraestructura DevOps adaptable:** utilización de un pipeline de github
 
-### Estudio del proyecto de Java
-
 ### Documentación inicial
+* **Estudio del proyecto de Java**
+* **Tablero Kanban**
+* **Creación del Proyecto en Github Projects**
 
 # 🎮 IPS-Project-Dinosaur-Exploder (Sprint 1 - 2)
 
