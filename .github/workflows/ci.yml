@@ -1,7 +1,4 @@
 # ============================================================
-# CI PIPELINE — Dinosaur Exploder | IPS 2026-A
-# Archivo: .github/workflows/ci.yml
-#
 # Disparadores:
 #   - Push a cualquier rama
 #   - Pull Request hacia main o develop
