@@ -1,7 +1,4 @@
 # ============================================================
-# CD PIPELINE — Dinosaur Exploder | IPS 2026-A
-# Archivo: .github/workflows/cd-pages.yml
-#
 # Disparadores:
 #   - Push exitoso a la rama main (tras pasar CI)
 #   - Ejecución manual desde la UI de GitHub (workflow_dispatch)
