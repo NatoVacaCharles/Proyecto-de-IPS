@@ -1,7 +1,4 @@
 # ============================================================
-# SCRUM AUTOMATION — Dinosaur Exploder | IPS 2026-A
-# Archivo: .github/workflows/scrum-automation.yml
-#
 # Automatiza tareas repetitivas del proceso Scrum:
 #   - Al abrir un Issue: agregar al Project Backlog
 #   - Al cerrar un Issue: actualizar el burndown counter
